@@ -1,0 +1,81 @@
+html{
+
+background-color:#F5F3F4;
+
+}
+header{
+
+    background-color: #F5F3F4;
+}
+
+body{
+    
+    background-color: #F5F3F4;
+}
+article{
+   
+    margin-right:0em;
+margin-left:1.5em;
+
+   
+}
+
+h1{
+    font-weight:900;
+    width: 700px;
+    color:#4C2D33;
+}
+
+
+footer{
+    background-color: #947E81;
+}
+
+#Imagen{
+    width: 550px;
+}
+#Textodepresentacion{
+
+    width: 700px;
+    font-family:'Nunito', sans-serif;
+    font-weight: 700;
+
+}
+
+#Titulo{
+font-family: 'Nunito', sans-serif;
+
+
+    width:650px;
+}
+
+.nav-link{
+   
+    font-family: 'Nunito', sans-serif;
+    font-size:1.5rem;
+    color:#824A57;
+    font-weight: 700;
+
+}
+  
+.nav-link:hover{
+
+    color: #947E81;
+}
+
+.container{
+    height:auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: space-evenly;
+    gap: 2em;
+    
+}
+
+.delfooter{
+    font-family:'Nunito', sans-serif;
+    font-weight: 700;
+color:#F5F3F4;
+}
